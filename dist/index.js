@@ -3569,7 +3569,7 @@ function onProgress(item, loaded, total) {
     document.getElementById("loding-text").innerText = ((loaded / total) * 100).toFixed(0) + " %";
 }
 function onLoad() {
-    document.getElementById("loding-text").innerText = "click to play";
+    document.getElementById("loding-text").innerText = "即刻体验";
     document.getElementById("loading-image").style.display = "none";
     document.getElementById("loding-text").onclick = function () {
         document.getElementById("loding-text").innerText = "Initializing physical";
