@@ -1,13 +1,10 @@
-**I did not add node_modules to git ignore, because i have modified some files**
+**node module 有若干修改**
 
-motion camara
-https://www.youtube.com/watch?v=piAcwO9kUlA
-
-motion data
-https://imarine-project.jp/#top
-
-stage
-http://www.nicovideo.jp/watch/sm24136180
-
-model
-https://bowlroll.net/file/146156
+舞台
+Crystal_Stage
+DeepBlueTown_he_Oideyo_dance.vmd
+镜头
+camera.vmd
+模型
+mikumikudance
+Breath_You.pmx
